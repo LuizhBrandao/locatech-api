@@ -1,9 +1,14 @@
 #  Locatech API - Sistema de Locação de Veículos
 
-![Java](https://img.shields.io/badge/Java-21-orange.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.0-brightgreen.svg)
-![H2 Database](https://img.shields.io/badge/Database-H2-blue.svg)
-![Swagger](https://img.shields.io/badge/Docs-Swagger%20UI-85EA2D.svg)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.4.0-6DB33F?logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-003545?logo=sqlite&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/Springdoc_OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+![Jakarta Validation](https://img.shields.io/badge/Jakarta_Validation-EE0000?logo=jakartaee&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
 Uma API RESTful robusta desenvolvida para gerenciar o processo de locação de veículos de uma empresa (Locatech). Este projeto foi construído com foco em **Clean Architecture**, **Padrões de Projeto** e **Boas Práticas de Engenharia de Software**, servindo como demonstração de habilidades técnicas para o desenvolvimento backend com Java e Spring.
 
