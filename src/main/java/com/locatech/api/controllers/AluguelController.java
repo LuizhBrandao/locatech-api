@@ -25,7 +25,7 @@ public class AluguelController {
     @PostMapping // [cite: 9]
     @Operation(summary = "Realiza uma nova locação", description = "Valida o cliente, o veículo, checa a disponibilidade do carro e agenda as datas.")
     @ApiResponses(value = {
-            @ApiResponse(responseCode = "21", description = "Locação efetuada e veículo reservado"),
+            @ApiResponse(responseCode = "201", description = "Locação efetuada e veículo reservado"),
             @ApiResponse(responseCode = "400", description = "Veículo indisponível ou inconsistência nas datas informadas")
     })
     public ResponseEntity<Aluguel> realizarAluguel(@Valid @RequestBody Aluguel aluguel) {
