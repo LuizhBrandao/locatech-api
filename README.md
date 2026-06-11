@@ -63,6 +63,7 @@ Execute a aplicação usando o Maven Wrapper:
 ./mvnw spring-boot:run
 ```
 A API estará rodando em http://localhost:8080.
+http://localhost:8080/swagger-ui/index.html
 
 ## Documentação (Swagger)
 A documentação interativa da API foi construída com OpenAPI 3 e pode ser acessada visualmente. Com a aplicação rodando, acesse no seu navegador:
